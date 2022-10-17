@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Andrei Avtukhovich
+- 👀 I’m interested in PHP and Vue.js
+- 🌱 I’m currently worked Software developer at Belaruskali
+- 💞️ I’m ready to collaborate on open source project 
+- 📫 Reach me on email.
